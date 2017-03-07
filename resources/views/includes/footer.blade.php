@@ -107,5 +107,4 @@
     });
   </script>
   <!-- Global js END -->
-</body>
-</html>
+ 
